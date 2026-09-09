@@ -1,7 +1,4 @@
-
-# ABOUT ME
-
-## Stats
+## STATS
 - 3rd year CS student @ UOFT
 - Love working at startups, full stack development at [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
 - I've worked with the following languages
@@ -16,8 +13,9 @@
     - Bazel
 4. Java
     - Tutoring for competitive programming
+    - profiles: [dmoj](https://dmoj.ca/user), [leetcode](https://leetcode.com/u/orion222/)
 
-## Career
+## CAREER
 1. SingleKey - SWE intern (May 2025 - Present)
     - Super fun and first real world experience - being at a start up was a bonus 
     - As an intern in a small team, I had a lot of engineering authority and made a lot of integral workflow and architectural decisions
@@ -29,8 +27,9 @@
     - First introduction to Golang, collaborated to create a scraper that finds the top industry account credit rates and push to user in the mobile app
     - Now working on the entire AI chat system, implementing the agentic infrastructure for custom subagents, agent memories, token accounting, and engine tool loop
 
-## Tools I use
+## TOOLS
 - Pycharm + Webstorm (Django + NextJS)
 - VScode (Monorepo)
 - Ghostty + Catpuccin theme
 - Orca (worktree development)
+- Claude + Codex
