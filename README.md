@@ -1,7 +1,4 @@
-> 3 things in life I want to be good at:
-> 1. Coding
-> 2. Basketball
-> 3. Piano
+> **A young rook trying to make it to the big leaguess**
 
 ## STATS
 - 3rd year CS student @ UOFT
