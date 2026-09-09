@@ -1,25 +1,35 @@
+
 # ABOUT ME
-```
-- Third year CS student @ UOFT
+
+## Stats
+- 3rd year CS student @ UOFT
 - Love working at startups, full stack development at [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
 - I've worked with the following languages
 1. Python
-- Django
-- FastAPI
-
-2. Typescript
-- React
-- NodeJS
-
+    - Django
+    - FastAPI
+2. Javascript
+    - TypeScript
+    - React + React Native
+    - NodeJS + Express
 3. Go
-- Bazel
-
+    - Bazel
 4. Java
-- Used for competitive programming
+    - Tutoring for competitive programming
+
+## Career
+1. SingleKey - SWE intern (May 2025 - Present)
+    - Super fun and first real world experience - being at a start up was a bonus 
+    - As an intern in a small team, I had a lot of engineering authority and made a lot of integral workflow and architectural decisions
+    - Refactored **A LOT** of spaghetti start-uppy code to implement clean scaleable architecture
+    - Implemented a full redesign of the AI service layer introducing LLM provider abstraction, prompt templating, cost/success tracing, API key failover, and DB driven prompt configurations
+
+2. Savi Finance - SWE mentorship (Jan 2026 - Present)
+    - First introduction to Golang, collaborated to create a scraper that finds the top industry account credit rates and push to user in the mobile app
+    - Now working on the entire AI chat system, implementing the agentic infrastructure for custom subagents, agent memories, token accounting, and engine tool loop
 
 ## Tools I use
-- Pycharm + Webstorm
-- VScode
+- Pycharm + Webstorm (Django + NextJS)
+- VScode (Monorepo)
 - Ghostty + Catpuccin theme
-- Orca (worktree maxxing)
-```
+- Orca (worktree development)
