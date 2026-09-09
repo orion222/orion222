@@ -1,6 +1,11 @@
+> 3 things in life I want to be good at:
+> 1. Coding
+> 2. Basketball
+> 3. Piano
+
 ## STATS
 - 3rd year CS student @ UOFT
-- Love working at startups, full stack development at [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
+- Full stack development at [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
 - I've worked with the following languages
 1. Python
     - Django
@@ -16,7 +21,7 @@
     - profiles: [dmoj](https://dmoj.ca/user), [leetcode](https://leetcode.com/u/orion222/)
 
 ## CAREER
-1. SingleKey - SWE intern (May 2025 - Present)
+1. SingleKey
     - Super fun and first real world experience - being at a start up was a bonus 
     - As an intern in a small team, I had a lot of engineering authority and made a lot of integral workflow and architectural decisions
     - Refactored **A LOT** of spaghetti start-uppy code to implement clean scaleable architecture
