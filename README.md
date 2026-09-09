@@ -1,4 +1,5 @@
 > **A young buck trying to make it to the big leagues**
+> **I love startups though**
 
 ## STATS
 - 3rd year CS student @ UOFT
