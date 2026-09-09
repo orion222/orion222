@@ -1,4 +1,4 @@
-> **A young rook trying to make it to the big leaguess**
+> **A young buck trying to make it to the big leagues**
 
 ## STATS
 - 3rd year CS student @ UOFT
