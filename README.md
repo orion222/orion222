@@ -3,19 +3,31 @@
 ## STATS
 - 3rd year CS student @ UOFT
 - Full stack development at startups [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
-- I've worked with the following languages
-1. Python
-    - Django
-    - FastAPI
-2. Javascript
-    - TypeScript
-    - React + React Native
-    - NodeJS + Express
-3. Go
-    - Bazel
-4. Java
-    - Tutoring for competitive programming
-    - profiles: [dmoj](https://dmoj.ca/user/orion222), [leetcode](https://leetcode.com/u/orion222/)
+- Architecture enthusiast
+- Currently working on agentic infrastructure for production systems
+
+## SKILLS
+- I've worked with the following technologies
+
+| Language                  | Frameworks                                        |
+| --------------------------|---------------------------------------------------|
+| Python                    | Django, FastAPI                                   |
+| TypeScript & JavaScript   | React, React Native, Node.js, Express             |
+| Go                        | Bazel                                             |
+| Java                      | Java Swing + JavaFX                               |
+| C/C++                     |                        -                          |
+| HTML/CSS                  |                        -                          |
+
+
+
+| Tool               | Usage / Notes           |
+| ------------------ | ----------------------- |
+| PyCharm + WebStorm | Django + Next.js        |
+| VS Code            | Monorepo development    |
+| Ghostty            | Catppuccin theme        |
+| Orca               | Worktree development    |
+| Claude + Codex     | AI-assisted development |
+
 
 ## CAREER
 1. **SingleKey**
@@ -30,9 +42,4 @@
     - First introduction to Golang, collaborated to create a scraper that finds the top industry account credit rates and push to user in the mobile app
     - Now working on the entire AI chat system, implementing the agentic infrastructure for custom subagents, agent memories, token accounting, and engine tool loop
 
-## TOOLS
-- Pycharm + Webstorm (Django + NextJS)
-- VScode (Monorepo)
-- Ghostty + Catpuccin theme
-- Orca (worktree development)
-- Claude + Codex
+
