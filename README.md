@@ -1,7 +1,7 @@
 > **_A young buck trying to make it to the big leagues._** <br>
 
 ## STATS
-- 4th year CS student @ UOFT
+- 3rd year CS student @ UOFT
 - Full stack development at startups [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
 - I've worked with the following languages
 1. Python
