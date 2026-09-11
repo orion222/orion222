@@ -7,8 +7,8 @@
 - Currently working on agentic infrastructure for production systems
 
 ## SKILLS
-- I've worked with the following technologies
 
+- I've worked with the following technologies
 | Language                  | Frameworks                                        |
 | --------------------------|---------------------------------------------------|
 | Python                    | Django, FastAPI                                   |
@@ -18,7 +18,7 @@
 | C/C++                     |                        -                          |
 | HTML/CSS                  |                        -                          |
 
-## TOOLS
+Some tools I frequently use
 - PyCharm + Webstorm
 - VSCode (Monorepo development)
 - Ghostty (Catpuccin theme)
