@@ -18,15 +18,12 @@
 | C/C++                     |                        -                          |
 | HTML/CSS                  |                        -                          |
 
-
-
-| Tool               | Usage / Notes           |
-| ------------------ | ----------------------- |
-| PyCharm + WebStorm | Django + Next.js        |
-| VS Code            | Monorepo development    |
-| Ghostty            | Catppuccin theme        |
-| Orca               | Worktree development    |
-| Claude + Codex     | AI-assisted development |
+## TOOLS
+- PyCharm + Webstorm
+- VSCode (Monorepo development)
+- Ghostty (Catpuccin theme)
+- Orca (Worktree management)
+- Claude + Codex
 
 
 ## CAREER
