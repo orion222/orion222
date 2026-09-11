@@ -7,8 +7,6 @@
 - Currently working on agentic infrastructure for production systems
 
 ## SKILLS
-
-- I've worked with the following technologies
 | Language                  | Frameworks                                        |
 | --------------------------|---------------------------------------------------|
 | Python                    | Django, FastAPI                                   |
