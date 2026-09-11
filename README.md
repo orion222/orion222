@@ -1,7 +1,7 @@
 > **_A young buck trying to make it to the big leagues._** <br>
 
 ## STATS
-- 3rd year CS student @ UOFT
+- 4th year CS student @ UOFT
 - Full stack development at startups [SingleKey](https://singlekey.ca/) and [Savi Finance](https://financesavi.com/)
 - I've worked with the following languages
 1. Python
@@ -15,7 +15,7 @@
     - Bazel
 4. Java
     - Tutoring for competitive programming
-    - profiles: [dmoj](https://dmoj.ca/user), [leetcode](https://leetcode.com/u/orion222/)
+    - profiles: [dmoj](https://dmoj.ca/user/orion222), [leetcode](https://leetcode.com/u/orion222/)
 
 ## CAREER
 1. **SingleKey**
